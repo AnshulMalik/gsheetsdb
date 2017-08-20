@@ -1,0 +1,10 @@
+{
+  "name": "sheetsdb",
+  "version": "1.0.0",
+  "description": "Use google sheets as database",
+  "main": "app.js",
+  "scripts": {
+  },
+  "author": "Anshul Malik <malikanshul29@gmail.com>",
+  "license": "MIT"
+}
